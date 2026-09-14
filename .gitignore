@@ -1,0 +1,24 @@
+# Old pre-reorg project state — kept locally for reference, not part of the repo
+Archive/
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Web demo frontend (presentation/webapp/frontend/)
+node_modules/
+dist/
+
+# Rendered animation output (regenerate with manim; presentation/animation/media/)
+media/
+
+# code/python/API's local key cache (created by add_key(), not source)
+code/python/API/keystore/
+
+# OS
+.DS_Store
+Thumbs.db

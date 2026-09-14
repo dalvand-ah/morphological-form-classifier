@@ -1,0 +1,13 @@
+{
+  "dilate_ksize": 20,
+  "erode_ksize": 15,
+  "line_half_len": 20,
+  "box_kernel_vertical": [15, 5],
+  "box_kernel_horizontal": [5, 15],
+  "line_iterations": 2,
+  "resample_length": 3000,
+  "peak_group_gap": 5,
+  "peak_max_width": 50,
+  "peak_match_tolerance": 50,
+  "match_threshold": 3.0
+}
