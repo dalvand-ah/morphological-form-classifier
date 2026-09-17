@@ -1,6 +1,12 @@
 # Old pre-reorg project state — kept locally for reference, not part of the repo
 Archive/
 
+# Claude Code local config (dev-server preview launcher)
+.claude/
+
+# Client-specific deliverables — local only, never pushed
+client/
+
 # Python
 __pycache__/
 *.pyc

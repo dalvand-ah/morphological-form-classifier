@@ -19,7 +19,7 @@ running title at the top changes as the story moves through four beats:
                                  with only its middle row colored, the
                                  literal shape of the horizontal-line
                                  kernel).
-  "Filtered Image to Time Series" - a highlight bar sweeps down the
+  "Filtered Image to Line Profile" - a highlight bar sweeps down the
                                  filtered image while, in sync, the real
                                  horizontal-profile output draws itself as
                                  a curve: summing each row's (inverted)
@@ -237,7 +237,7 @@ class MorphologicalFilterDemo(Scene):
         #    "sum the gray pixels along each row; a long horizontal rule
         #    line shows up as a peak."
         # =====================================================================
-        title = swap_title(title, "Filtered Image to Time Series")
+        title = swap_title(title, "Filtered Image to Line Profile")
 
         caption = Text("sum each row → a peak marks a horizontal line", font_size=22, color=GREY_B)
         caption.to_edge(DOWN)

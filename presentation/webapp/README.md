@@ -1,5 +1,7 @@
 # Profile Lab (web demo)
 
+![screenshot](screenshot.png)
+
 An interactive demo: pick two pages — from the enrolled keys, a
 gallery of sample pages, or your own upload — and compare their line
 profiles side by side.

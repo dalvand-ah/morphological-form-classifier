@@ -1,10 +1,9 @@
 # Notebooks
 
-- `morphological_filter_theory.ipynb` — the four basic operations
-  (dilation, erosion, opening, closing), independent of this project's
-  specific algorithm.
-- `algorithm_walkthrough.ipynb` — this project's actual pipeline,
-  step by step, on a real enrolled key.
+- `morphological_filter_theory.ipynb` — a quick tour of the four basic
+  operators in morphological filtering.
+- `algorithm_walkthrough.ipynb` — a step-by-step look at the algorithm
+  this project uses.
 
 ## Run them
 
